@@ -1,3 +1,3 @@
 # SVG Sandbox
 
-A few examples working with SVG
+A few examples and tests with SVG
